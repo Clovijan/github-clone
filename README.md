@@ -19,7 +19,7 @@
 
 ## 💻 Sobre o projeto
 
-🚀 GitHub-Clone - O projeto recria a tela principal do github com um design responsivo que se adapta as atuais resoluções de tela. Desenvolvida para uma máxima experiência de uso o usuário pode optar em usar o tema Dark ou Light. Na barra de pesquisa o usuário pode pesquisar por contas de usuários do github.
+🚀 GitHub-Clone - O projeto recria a tela principal do github com um design responsivo que se adapta as atuais resoluções de tela como também foi desenvolvida para uma máxima experiência de uso, nela o usuário pode optar em usar o tema Dark ou Light. Na barra de pesquisa o usuário pode pesquisar por contas de usuários do github.
 
 ## 🛠 Tecnologias
 
