@@ -1,6 +1,6 @@
 <h1 align="center">Clone UI GitHub </h1>
 <h1 align="center">
-    <img alt="UI-Clone-GitHub" title="#Desenvolvimento Web" src="./src/assets/banner.png" />
+    <img alt="UI-Clone-GitHub" title="#Desenvolvimento Web" src="https://github.com/Clovijan/github-clone/blob/master/src/assets/Banner.png" />
 </h1>
 
 
